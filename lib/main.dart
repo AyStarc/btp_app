@@ -12,6 +12,8 @@ Future<void> main() async {
   runApp(MyApp());
 }
 
+// nothing, just for git
+
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
